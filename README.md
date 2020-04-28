@@ -9,4 +9,4 @@ This dataset is used to train the neural network. Given theses inputs:
 
 she can predict if the result will be true or false.
 
-![prediction](https://github.com/pedrohcaminha/ToyNeuralNetwork/blob/master/result.png)
+![prediction](https://github.com/pedrohcaminha/ToyNeuralNetwork/blob/master/Result.png)
